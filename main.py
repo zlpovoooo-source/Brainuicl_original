@@ -150,6 +150,7 @@ def main():
     else:
         logger.warning("Skip analysis: plasticity metrics are incomplete.")
     # analysis(performance)
+    print(performance)
 
 
 if __name__ == '__main__':

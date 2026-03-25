@@ -1,0 +1,5 @@
+Placeholder assumptions used for plotting:
+1) For each subject, first row is Before and second row is After.
+2) Random split (seed=20260324) assigns half IDs to MEMC and half to Control.
+3) Replace with real group/time labels for publication figures.
+4) Figure9_style_placeholder_random.png uses average-electrode band relative power change.
